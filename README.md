@@ -51,7 +51,7 @@ je peux composer un plat à partir d'une liste d'ingrédients
 
 je peux ajouter des extra à un plat
 
-je peux modifier la quantité d'un plat commander
+je peux modifier la quantité d'un plat commandé
 
 je peux retirer un plat de mon panier
 
@@ -75,7 +75,7 @@ je peux annuler la prise en charge
 ### En tant que restaurateur :
 je peux mettre à jour la carte
 
-je peux indiquer à tout moment la rupture de stock d'un plat
+je peux indiquer à tout moment la rupture de stock d'un plat ou d'un ingrédient
 
 je peux indiquer la taille maximum de ma file d'attente
 
