@@ -9,12 +9,19 @@ L'API sera en développée en Java sur le framework Spring. Vous devrez montrer 
 # Déroulé
 
 1/2 journée de "kick-off". Présentation générale, initialisation des projets, création des dépôts de code.
+
 1/2 journée en autonomie
+
 1/2 journée avec permanence technique et fonctionnelle
+
 1/2 journée en autonomie
+
 1/2 journée avec permanence technique et fonctionnelle
+
 1 journée en autonomie
+
 1/2 journée de finalisation et préparation à la restitution
+
 1/2 journée restitution finale et "wrap-up"
 
 # Organisation
@@ -35,27 +42,45 @@ Les fonctionnalités sont présentées sous la forme de phrases simples. Elles p
 
 ### En tant qu'utilisateur : 
 je peux voir les plats à emporter du restaurant
+
 je peux ajouter des plats à mon panier
+
 je peux composer mon menu
+
 je peux composer un plat à partir d'une liste d'ingrédients
+
 je peux ajouter des extra à un plat
+
 je peux modifier la quantité d'un plat commander
+
 je peux retirer un plat de mon panier
+
 je peux passer commande de mon panier
+
 je sais dans combien de temps mes plats seront prêts
+
 je peux planifier une livraison
+
 je peux ajouter des couverts jetables
 
 ### En tant que livreur :
 je peux lister les commande en attente d'un livreur
+
 je peux prendre en charge une commande
+
 je suis avertis quand la/une commande est prête
+
 je peux annuler la prise en charge
 
 ### En tant que restaurateur :
 je peux mettre à jour la carte
+
 je peux indiquer à tout moment la rupture de stock d'un plat
+
 je peux indiquer la taille maximum de ma file d'attente
+
 je peux indiquer quand une commande est prête
+
 je peux suivre l'état des commandes en cours
+
 je veux que les paniers non commandés soit supprimés automatiquement au bout de N minutes
